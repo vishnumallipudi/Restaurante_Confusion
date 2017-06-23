@@ -1,0 +1,13 @@
+angularJS
+
+directives-
+ng-app,ng-init,ng-repeat,ng-model,ng-click
+ng-class=can adds a class to any inside your html code
+
+controllers
+var app=angular.module('ngapp name',[empty array]);
+app.controller('controller name',callback function(){
+//do what ever
+});
+
+filters::
